@@ -5,4 +5,4 @@ Code to create XML files based on Pascal VOC format from binary segmentation mas
 
 
 
-<img width="200" height="200" src="xml_file.png"/>
+<img width="200" height="200" src="xml_files.png"/>
