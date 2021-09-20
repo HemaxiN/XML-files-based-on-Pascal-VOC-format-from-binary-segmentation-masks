@@ -8,4 +8,14 @@ Code to create XML files based on Pascal VOC format from binary segmentation mas
 
 
 This code was written in order to obtain XML files to train the Fast YOLO architecture of the approach proposed in:
-Narotamo, H., Sanches, J. M., & Silveira, M. (2019, July). Segmentation of Cell Nuclei in Fluorescence Microscopy Images Using Deep Learning. In Iberian Conference on Pattern Recognition and Image Analysis (pp. 53-64). Springer, Cham. 
+
+```bibtex
+@inproceedings{narotamo2019segmentation,
+  title={Segmentation of cell nuclei in fluorescence microscopy images using deep learning},
+  author={Narotamo, Hemaxi and Sanches, J Miguel and Silveira, Margarida},
+  booktitle={Iberian Conference on Pattern Recognition and Image Analysis},
+  pages={53--64},
+  year={2019},
+  organization={Springer}
+}
+```
